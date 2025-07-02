@@ -17,3 +17,7 @@ In this script we print:
 
 # Usage
 Set the script wherever you want, later call it with: `sh <path>/server-stats.sh`
+
+# Challenge
+
+https://roadmap.sh/projects/server-stats
